@@ -1,1 +1,1 @@
-# Simple-Chatti-Bott
+# Simple-Chatty-Bott
